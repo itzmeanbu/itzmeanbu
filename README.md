@@ -1,27 +1,52 @@
-# 👋 Hey, I'm Anbuselvan I
+# 👋 Hi, I'm Anbuselvan I
+
+### 🐍 Python Programmer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Python+Programmer;Building+Projects;Solving+Problems;Code+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Building+Projects;Exploring+Programming;Solving+Problems;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🐍 About Me
+## 👨‍💻 About Me
 
-- 💻 Programmer
-- 🐍 Python
-- 🧠 Problem Solving
-- 🛠️ Building Projects
+- 💻 Programmer passionate about building things with code
+- 🐍 Experienced with Python, C and C++
+- 🟨 Working with JavaScript
+- 🧠 Interested in problem solving and programming
+- 🚀 Always exploring new technologies and building projects
 
-### ⚡ Skills
+---
 
+## 🛠️ Tools & Technologies
+
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
 </p>
 
-### 🚀 What I Do
+### 🌐 Web & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" />
+</p>
 
-I enjoy writing code, building projects, and improving my programming skills.
+### 🔧 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### 🚀 Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=sql,ts,docker,mongodb" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzmeanbu&show_icons=true&hide_border=true" />
+</p>
 
 ---
 
