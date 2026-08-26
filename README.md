@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Anbuselvan I" width="100%">
+  <img src="https://raw.githubusercontent.com/itzmeanbu/itzmeanbu/main/banner.png" width="100%" alt="Anbuselvan I">
 </p>
 
 <p align="center">
@@ -40,25 +40,25 @@ To keep improving my programming skills, build meaningful projects, and become a
 
 ## 🛠️ TECH STACK
 
-### 💻 Languages
+### 💻 LANGUAGES
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="Languages">
 </p>
 
-### 🌐 Web & Development
+### 🌐 WEB & DEVELOPMENT
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" alt="Web Development">
 </p>
 
-### 🔧 Tools
+### 🔧 TOOLS
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools">
 </p>
 
-### 🚀 Exploring
+### 🚀 EXPLORING
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,docker,mongodb" alt="Exploring">
