@@ -89,9 +89,7 @@ To keep improving my programming skills, build meaningful projects, and become a
 ## 📊 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzmeanbu&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeanbu&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzmeanbu&theme=dark&hide_border=true" alt="GitHub Streak">
+
 </p>
