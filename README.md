@@ -2,20 +2,18 @@
   <img src="./banner.png" alt="Anbuselvan I" width="100%">
 </p>
 
-<!-- ⌨️ ANIMATED INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Python+Programmer;Code+%E2%80%A2+Build+%E2%80%A2+Solve+%E2%80%A2+Repeat;Building+Projects;Exploring+New+Technologies;Turning+Ideas+Into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Python+Programmer;Code+%E2%80%A2+Build+%E2%80%A2+Solve+%E2%80%A2+Repeat;Building+Projects;Exploring+New+Technologies;Turning+Ideas+Into+Code" alt="Typing SVG">
 </p>
 
 ---
 
 ## ⚡ SYSTEM PROFILE
 
-> I'm **Anbuselvan I**, a programmer interested in building projects,
-> solving problems, and exploring new technologies.
+Hey! I'm **Anbuselvan I** — a programmer who enjoys coding, building projects, solving problems, and exploring new technologies.
 
 - 🐍 Python Programmer
-- ⚙️ C / C++ Programmer
+- ⚙️ C & C++
 - 🟨 JavaScript
 - 🧠 Problem Solving
 - 💻 Building Projects
@@ -34,37 +32,36 @@
 
 ## 🎯 MISSION
 
-> Keep improving my programming skills, build meaningful projects,
-> and become a well-rounded developer.
+To keep improving my programming skills, build meaningful projects, and become a well-rounded developer.
 
-### `CODE • BUILD • SOLVE • REPEAT`
+> `CODE • BUILD • SOLVE • REPEAT`
 
 ---
 
 ## 🛠️ TECH STACK
 
-### 💻 LANGUAGES
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" alt="Languages">
 </p>
 
-### 🌐 WEB & DEVELOPMENT
+### 🌐 Web & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" alt="Web Development">
 </p>
 
-### 🔧 TOOLS
+### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools">
 </p>
 
-### 🚀 EXPLORING
+### 🚀 Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,docker,mongodb" />
+  <img src="https://skillicons.dev/icons?i=ts,docker,mongodb" alt="Exploring">
 </p>
 
 ---
@@ -74,15 +71,15 @@
 <p align="center">
 
 <a href="mailto:anbuilayaperumal@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-FF3131?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://www.linkedin.com/in/anbu-selvan-i-94b699377/">
-  <img src="https://img.shields.io/badge/LINKEDIN-FF3131?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-FF3131?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/itzmeanbu">
-  <img src="https://img.shields.io/badge/GITHUB-FF3131?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-FF3131?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </p>
@@ -92,11 +89,11 @@
 ## 📊 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzmeanbu&show_icons=true&theme=dark&hide_border=true&title_color=FF3131&icon_color=FF3131" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itzmeanbu&show_icons=true&theme=dark&hide_border=true&title_color=FF3131&icon_color=FF3131&text_color=ffffff" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeanbu&layout=compact&theme=dark&hide_border=true&title_color=FF3131" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeanbu&layout=compact&theme=dark&hide_border=true&title_color=FF3131&text_color=ffffff" alt="Top Languages">
 </p>
 
 ---
