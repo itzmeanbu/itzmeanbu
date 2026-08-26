@@ -1,6 +1,5 @@
-<!-- 🔴 PROFILE BANNER -->
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Anbuselvan I - Python Programmer" />
+  <img src="./banner.png" alt="Anbuselvan I" width="100%">
 </p>
 
 <!-- ⌨️ ANIMATED INTRO -->
