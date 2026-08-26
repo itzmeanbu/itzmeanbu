@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="./banner.png" alt="Anbuselvan I" width="100%">
+<img src="./banner.png" width="100%" alt="Anbuselvan I">
 </p>
 
 <p align="center">
