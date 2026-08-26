@@ -1,23 +1,25 @@
-# 🔴 ANBUSELVAN I
-
-### `Python Programmer`
-
+<!-- 🔴 PROFILE BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Code+%E2%80%A2+Build+%E2%80%A2+Solve+%E2%80%A2+Repeat;Python+Programmer;Building+Projects;Exploring+New+Technologies;Turning+Ideas+Into+Code" alt="Typing SVG" />
+  <img src="./banner.png" width="100%" alt="Anbuselvan I - Python Programmer" />
+</p>
+
+<!-- ⌨️ ANIMATED INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Python+Programmer;Code+%E2%80%A2+Build+%E2%80%A2+Solve+%E2%80%A2+Repeat;Building+Projects;Exploring+New+Technologies;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </p>
 
 ---
 
 ## ⚡ SYSTEM PROFILE
 
-> Hey! I'm **Anbuselvan I**, a programmer who enjoys building things,
+> I'm **Anbuselvan I**, a programmer interested in building projects,
 > solving problems, and exploring new technologies.
 
 - 🐍 Python Programmer
 - ⚙️ C / C++ Programmer
 - 🟨 JavaScript
 - 🧠 Problem Solving
-- 💻 Interested in building useful projects
+- 💻 Building Projects
 
 ---
 
@@ -36,7 +38,7 @@
 > Keep improving my programming skills, build meaningful projects,
 > and become a well-rounded developer.
 
-**Code. Build. Solve. Repeat.**
+### `CODE • BUILD • SOLVE • REPEAT`
 
 ---
 
@@ -48,16 +50,16 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
 </p>
 
-### 🔧 TOOLS
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
 ### 🌐 WEB & DEVELOPMENT
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,nodejs,react" />
+</p>
+
+### 🔧 TOOLS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ### 🚀 EXPLORING
@@ -72,8 +74,16 @@
 
 <p align="center">
 
+<a href="mailto:anbuilayaperumal@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-FF3131?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/anbu-selvan-i-94b699377/">
+  <img src="https://img.shields.io/badge/LINKEDIN-FF3131?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <a href="https://github.com/itzmeanbu">
-  <img src="https://img.shields.io/badge/GitHub-itzmeanbu-ff3131?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-FF3131?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
@@ -83,17 +93,15 @@
 ## 📊 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itzmeanbu&show_icons=true&theme=dark&hide_border=true&title_color=ff3131&icon_color=ff3131" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itzmeanbu&show_icons=true&theme=dark&hide_border=true&title_color=FF3131&icon_color=FF3131" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeanbu&layout=compact&theme=dark&hide_border=true&title_color=ff3131" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeanbu&layout=compact&theme=dark&hide_border=true&title_color=FF3131" />
 </p>
 
 ---
 
 <p align="center">
-
-### 🔴 `CODE • BUILD • SOLVE • REPEAT`
-
+  <b>🔴 CODE • BUILD • IMPROVE 🔴</b>
 </p>
