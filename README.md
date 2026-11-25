@@ -60,37 +60,6 @@
 
 ---
 
-## 🛍️ Featured Project — Dearly Lovelle
-
-**Designer Bag E-Commerce Website** — a full-stack e-commerce platform built for a real-world brand concept.
-
-### ✨ Key Features
-
-- Product browsing, filtering, and wishlist
-- Shopping cart with inventory-aware quantity management
-- Automatic sold-out product handling
-- Full customer order flow, including delivery details and payment workflow
-- Customer service system
-- Admin authentication with inventory and content management
-- Brevo email integration
-- REST API backend on MongoDB
-- Fully responsive design, deployed on Render
-
-### 🧩 Technologies Used
-
-| Layer | Stack |
-|---|---|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | Node.js, Express.js, REST APIs |
-| Database | MongoDB, Mongoose |
-| Integrations | Brevo, External APIs |
-| Deployment | GitHub, Render |
-
-🔗 **[Visit Dearly Lovelle](https://dearly-lovelle-frontend.onrender.com)**
-> 🔒 Source code is kept private.
-
----
-
 ## 💼 Custom Website Development
 
 I'm available for custom website and web application projects, built around a client's branding, products, content, and business requirements.
